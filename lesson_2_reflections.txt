@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+this initialises the git commiting
+this is required if we want to use git version control 
+first it shows which files are being tracked
+
